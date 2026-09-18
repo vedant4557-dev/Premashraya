@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/api/", "/_next/"],
       },
     ],
-    sitemap: "https://premashraya.org/sitemap.xml",
+    sitemap: "https://premashraya.in/sitemap.xml",
   };
 }
