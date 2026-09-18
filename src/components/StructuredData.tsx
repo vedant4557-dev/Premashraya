@@ -5,8 +5,8 @@ export default function StructuredData() {
       "@type": "NGO",
       name: "Premashraya Charitable Trust",
       alternateName: "Premashraya",
-      url: "https://premashraya.org",
-      logo: "https://premashraya.org/images/logo.webp",
+      url: "https://premashraya.in",
+      logo: "https://premashraya.in/images/logo.webp",
       description:
         "Premashraya provides free hygienic accommodation, nutritious meals, counselling, and emotional support for cancer patients undergoing treatment in Bhubaneswar & Cuttack, Odisha.",
       address: {
@@ -34,7 +34,7 @@ export default function StructuredData() {
       "@context": "https://schema.org",
       "@type": "WebSite",
       name: "Premashraya",
-      url: "https://premashraya.org",
+      url: "https://premashraya.in",
       description:
         "Official website of Premashraya Charitable Trust - Free cancer patient shelter in Bhubaneswar & Cuttack",
       publisher: {
