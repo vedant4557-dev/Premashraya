@@ -8,7 +8,7 @@ import StructuredData from "@/components/StructuredData";
 import { LanguageProvider } from "@/context/LanguageContext";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://premashraya.org"),
+  metadataBase: new URL("https://premashraya.in"),
   title: "Premashraya | Free Cancer Patient Shelter in Bhubaneswar & Cuttack",
   description:
     "Premashraya provides free hygienic accommodation, nutritious meals, counselling, and emotional support for cancer patients undergoing treatment in Bhubaneswar & Cuttack.",
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     title: "Premashraya | Free Cancer Patient Shelter in Bhubaneswar & Cuttack",
     description:
       "Premashraya provides free hygienic accommodation, nutritious meals, counselling, and emotional support for cancer patients undergoing treatment in Bhubaneswar & Cuttack.",
-    url: "https://premashraya.org",
+    url: "https://premashraya.in",
     siteName: "Premashraya",
     locale: "en_IN",
     type: "website",
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     apple: "/images/logo.webp",
   },
   alternates: {
-    canonical: "https://premashraya.org",
+    canonical: "https://premashraya.in",
   },
   robots: {
     index: true,
