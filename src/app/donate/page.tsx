@@ -74,8 +74,8 @@ export default function DonatePage() {
   const impactItems = [
     { amount: 5100,  icon: <Soup            className="w-6 h-6" />, color: "text-orange-500", bg: "bg-orange-50",  num: "₹5100",   label: language === "en" ? "Feed all patients & attendants for a meal" : "ରୋଗୀ ଓ ସମ୍ପର୍କୀୟଙ୍କ ଦିନକର ଭୋଜନ" },
     { amount: 11000, icon: <Bed             className="w-6 h-6" />, color: "text-sky-500",    bg: "bg-sky-50",     num: "₹11,000", label: language === "en" ? "Feed all patients & attendants For a day "        : "୨ ଦିନର ସ୍ୱଚ୍ଛ ରହଣି ଓ ଭୋଜନ" },
-    { amount: 1000, icon: <HeartHandshake  className="w-6 h-6" />, color: "text-violet-500", bg: "bg-violet-50",  num: "₹1,000", label: language === "en" ? "Supports 5 days of accommodation & care" : "୫ ଦିନର ଆଶ୍ରୟ, ଭୋଜନ ଓ ସହାୟତା" },
-    { amount: 7000, icon: <Heart           className="w-6 h-6" />, color: "text-rose-500",   bg: "bg-rose-50",    num: "₹7,000", label: language === "en" ? "Sponsors 1 full week of complete stay"   : "ସମ୍ପୂର୍ଣ ଏକ ସପ୍ତାହର ମାଗଣା ସେବା" },
+    { amount: 1000, icon: <HeartHandshake  className="w-6 h-6" />, color: "text-violet-500", bg: "bg-violet-50",  num: "₹1,000", label: language === "en" ? "Feed a Paitient for a day " : "୫ ଦିନର ଆଶ୍ରୟ, ଭୋଜନ ଓ ସହାୟତା" },
+    { amount: 7000, icon: <Heart           className="w-6 h-6" />, color: "text-rose-500",   bg: "bg-rose-50",    num: "₹7,000", label: language === "en" ? "Sponsor a paitient for full week of complete stay"   : "ସମ୍ପୂର୍ଣ ଏକ ସପ୍ତାହର ମାଗଣା ସେବା" },
   ];
 
   const bankFields = [
