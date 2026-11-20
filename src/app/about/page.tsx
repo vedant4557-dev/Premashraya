@@ -72,7 +72,7 @@ export default function AboutPage() {
     {
       name: "Binod Agarwal",
       image: "/images/dr-elena.png",
-      video: "/videos/Vinod Agarwal.mp4",
+      video: "/videos/Binod_New.mp4",
     },
     {
       name: "Binod Agarwal and Satyanarayan Agarwal",
